@@ -1,6 +1,6 @@
 Welcome to this repository!
-This project is a collection of **C++ Standard Template Library (STL)** programs that demonstrate the usage of "STL Containers" and "STL Algorithms" in a clear and beginner-friendly way.
----
+This project is a collection of C++ Standard Template Library (STL) programs that demonstrate the usage of STL Containers and STL Algorithms in a clear and beginner-friendly way.
+
 STL Containers-
 -vector
 -list
