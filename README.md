@@ -2,16 +2,17 @@ Welcome to this repository!
 This project is a collection of **C++ Standard Template Library (STL)** programs that demonstrate the usage of "STL Containers" and "STL Algorithms" in a clear and beginner-friendly way.
 ---
 STL Containers-
-* `vector`
-* `list`
-* `deque`
-* `stack`
-* `queue`
-* `priority_queue`
-* `set`
-* `map`
-* `unordered_set`
-* `unordered_map`
+-vector
+-list
+-deque
+-stack
+-queue
+-priority_queue
+-set
+-map
+-unordered_set
+-unordered_map
+-manyy more....
 
 Each program is written to show:
 
