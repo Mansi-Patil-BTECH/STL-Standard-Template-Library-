@@ -32,16 +32,16 @@ This repository-----
 * Help beginners understand and use the C++ STL  
 * Make it easier to revise STL quickly  
 
+---
 
 --> Coded on VSCODE and complier used is MINGW.  
 --> Feel free to suggest new examples and fix mistakes.  
 
 ---
 
-## SUPPORT-*
+## SUPPORT-
 
 If you find this repository helpful, don’t forget to "star" it!!
 
----
 
-Happy Coding!
+`Happy Coding!`
