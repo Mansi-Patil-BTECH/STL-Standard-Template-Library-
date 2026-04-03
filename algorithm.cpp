@@ -57,6 +57,7 @@ int main()
     string str ="Mansi Patil";
     reverse(str.begin(), str.end());
     cout << str << endl;
+    sort(str.begin(),str.end());
     cout << "============"<<endl;
 
     //Rotate
